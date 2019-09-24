@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     int z;
     int a;
 
-
+    int c;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
